@@ -201,8 +201,3 @@ check_for_wordlist() {
 
 check_for_wordlist
 run_hashcat
-
-
-
-
-
